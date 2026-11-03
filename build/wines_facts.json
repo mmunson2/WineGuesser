@@ -1,0 +1,794 @@
+{
+ "Q168461": {
+  "name": "Bordeaux",
+  "facts": [
+   "Its 1855 classification ranked the great châteaux of the Left Bank, from first growth to fifth.",
+   "The Gironde estuary splits it into a gravelly Left Bank and a clay-rich Right Bank.",
+   "Its red blends are often called claret in Britain, a trade dating back to the Middle Ages."
+  ]
+ },
+ "Q1016093": {
+  "name": "Burgundy",
+  "facts": [
+   "Its vineyards are cut into hundreds of tiny named plots, the climats, now a World Heritage Site.",
+   "Romanée-Conti, among the world's most expensive wines, grows on less than two hectares here.",
+   "Cistercian monks mapped its slopes plot by plot in the Middle Ages."
+  ]
+ },
+ "Q134862": {
+  "name": "Champagne",
+  "facts": [
+   "Only sparkling wine made here, fermented a second time in the bottle, may carry its name.",
+   "Miles of chalk cellars run under the towns of Reims and Épernay.",
+   "Dom Pérignon, a Benedictine monk, worked at the abbey of Hautvillers here."
+  ]
+ },
+ "Q80114014": {
+  "name": "Alsace",
+  "facts": [
+   "Unusually for the country, its wines are labelled by grape and sold in tall, slim flute bottles.",
+   "The Vosges mountains shelter it from rain, making it one of the country's driest corners.",
+   "It changed hands with its eastern neighbour four times between 1871 and 1945."
+  ]
+ },
+ "Q1954580": {
+  "name": "Loire Valley",
+  "facts": [
+   "Its vineyards follow the country's longest river for hundreds of kilometres, past royal châteaux.",
+   "Vouvray, Chinon and Pouilly-Fumé all lie along it.",
+   "Its whites run from bone-dry to honeyed, often from Chenin Blanc."
+  ]
+ },
+ "Q1891041": {
+  "name": "Rhône Valley",
+  "facts": [
+   "Côte-Rôtie and Hermitage cling to steep granite slopes in its northern half.",
+   "Its southern half is swept by the mistral, a cold dry wind from the north.",
+   "Its northern reds are made from Syrah alone; the south blends Grenache with up to a dozen others."
+  ]
+ },
+ "Q616": {
+  "name": "Beaujolais",
+  "facts": [
+   "Every third Thursday of November, its 'nouveau' is released weeks after the harvest.",
+   "Nearly all its red wine comes from the Gamay grape.",
+   "Ten crus, among them Fleurie, Morgon and Moulin-à-Vent, sit on its granite hills."
+  ]
+ },
+ "Q1058259": {
+  "name": "Chablis",
+  "facts": [
+   "Its vineyards sit on Kimmeridgian clay, packed with fossil oyster shells.",
+   "It lies so far north that spring frosts are fought with heaters and sprinklers among the vines.",
+   "Its crisp whites are made from Chardonnay, usually with little or no oak."
+  ]
+ },
+ "Q282221": {
+  "name": "Sancerre",
+  "facts": [
+   "A hilltop town looks over its vineyards of flinty, chalky soil.",
+   "Its whites made Sauvignon Blanc famous long before New Zealand did.",
+   "Pouilly-Fumé faces it across a river."
+  ]
+ },
+ "Q1805438": {
+  "name": "Languedoc-Roussillon",
+  "facts": [
+   "One of the largest wine regions in the world, stretching along the Mediterranean to the Pyrenees.",
+   "Blanquette de Limoux, from here, claims to be older than Champagne.",
+   "Much of the country's bulk wine once came from its plains; today it is known for value reds."
+  ]
+ },
+ "Q815934": {
+  "name": "Provence",
+  "facts": [
+   "Close to nine in ten of its bottles are pale, dry rosé.",
+   "Its oldest vineyards go back to Greek settlers who founded Marseille around 600 BC.",
+   "Bandol, on its coast, makes long-lived reds from Mourvèdre."
+  ]
+ },
+ "Q1713793": {
+  "name": "Jura",
+  "facts": [
+   "Its 'vin jaune' ages for over six years under a film of yeast, unlike any other table wine.",
+   "Vin jaune comes in a squat 62 cl bottle, the clavelin.",
+   "Louis Pasteur grew up in Arbois, its wine capital, and studied fermentation there."
+  ]
+ },
+ "Q1435049": {
+  "name": "Médoc",
+  "facts": [
+   "Château Lafite, Latour and Margaux all stand on its gravel banks.",
+   "It is a peninsula between the Atlantic and the Gironde estuary.",
+   "Pauillac and Saint-Julien, two of its villages, hold most of the 1855 first growths."
+  ]
+ },
+ "Q2715616": {
+  "name": "Saint-Émilion",
+  "facts": [
+   "A medieval village here has a church carved into the limestone rock.",
+   "Its classification is revised about every ten years, unlike the fixed one across the river.",
+   "Château Cheval Blanc and Château Ausone are its most famous estates."
+  ]
+ },
+ "Q2914687": {
+  "name": "Châteauneuf-du-Pape",
+  "facts": [
+   "The Avignon popes built a summer castle here in the 14th century.",
+   "Up to thirteen grape varieties may go into its wines.",
+   "Its vineyards are covered in large round stones, galets, that store the day's heat."
+  ]
+ },
+ "Q771636": {
+  "name": "Sauternes",
+  "facts": [
+   "Autumn mists from the Ciron river bring on noble rot, which shrivels the grapes.",
+   "Château d'Yquem, the only 'superior first growth' of 1855, is here.",
+   "Pickers go through its vineyards several times, taking only the rotted berries."
+  ]
+ },
+ "Q1025792": {
+  "name": "Cahors",
+  "facts": [
+   "Its inky red was known in medieval London as 'black wine'.",
+   "It is the old home of Malbec, long before Argentina made the grape famous.",
+   "Its vineyards line loops of the Lot river."
+  ]
+ },
+ "Q1954034": {
+  "name": "Muscadet",
+  "facts": [
+   "Its dry whites come from Melon de Bourgogne, near the Atlantic coast.",
+   "Many are aged 'sur lie', resting on their spent yeast until bottling.",
+   "It is the classic match for oysters from the nearby coast, around Nantes."
+  ]
+ },
+ "Q750979": {
+  "name": "Chianti",
+  "facts": [
+   "Its wines once came in a straw-covered flask, the fiasco.",
+   "A black rooster on the neck marks its Classico wines.",
+   "Its hills lie between Florence and Siena."
+  ]
+ },
+ "Q808584": {
+  "name": "Barolo",
+  "facts": [
+   "Called 'the king of wines and the wine of kings', it must age at least 38 months.",
+   "Its wines are made from Nebbiolo, a grape named for the autumn fog of the Langhe hills.",
+   "In the 1980s and 90s its young modernists, with small new oak barrels, fought the traditionalists."
+  ]
+ },
+ "Q590461": {
+  "name": "Barbaresco",
+  "facts": [
+   "A village of the Langhe hills, just across Alba from its more famous neighbour.",
+   "Angelo Gaja put its wines on the world map in the 1960s and 70s.",
+   "Its Nebbiolo reds need less ageing than their neighbour's - 26 months at least."
+  ]
+ },
+ "Q26667": {
+  "name": "Brunello di Montalcino",
+  "facts": [
+   "Its wines come only from Sangiovese and age at least five years before release.",
+   "The Biondi-Santi family created the wine in the 19th century.",
+   "A hilltop fortress town above the Val d'Orcia gives it its name."
+  ]
+ },
+ "Q541959": {
+  "name": "Vino Nobile di Montepulciano",
+  "facts": [
+   "Its 'noble wine' was praised by a 17th-century poet as the king of all wines.",
+   "Its Renaissance hill town is not to be confused with a grape of the same name grown further east.",
+   "Locally, its Sangiovese is called Prugnolo Gentile."
+  ]
+ },
+ "Q1069954": {
+  "name": "Prosecco",
+  "facts": [
+   "It is made fizzy in large steel tanks, not in the bottle.",
+   "The steep hills of Conegliano and Valdobbiadene, where its best grows, are a World Heritage Site.",
+   "It outsells Champagne around the world, and is the base of an Aperol spritz."
+  ]
+ },
+ "Q852467": {
+  "name": "Valpolicella",
+  "facts": [
+   "Amarone is made here from grapes dried on racks for months before pressing.",
+   "Its hills rise just north of Verona.",
+   "Ripasso is made by passing young wine over the leftover skins of Amarone."
+  ]
+ },
+ "Q1933708": {
+  "name": "Soave",
+  "facts": [
+   "A walled medieval town with a castle sits in the middle of its vineyards.",
+   "Its white is made from Garganega, grown on old volcanic soils.",
+   "It was once the best-selling white of its country in the United States."
+  ]
+ },
+ "Q3750896": {
+  "name": "Franciacorta",
+  "facts": [
+   "Its sparkling wine is made the same way as Champagne, bottle-fermented.",
+   "Its vineyards lie at the south end of Lake Iseo.",
+   "It is close to Brescia and an hour from Milan."
+  ]
+ },
+ "Q842052": {
+  "name": "Marsala",
+  "facts": [
+   "An English merchant, John Woodhouse, began fortifying its wine in 1773 to survive the sea voyage.",
+   "Nelson's fleet carried it as a ration.",
+   "A port city on the western tip of an island gives the wine its name."
+  ]
+ },
+ "Q1146204": {
+  "name": "Lambrusco",
+  "facts": [
+   "Its red wine is fizzy, often served chilled.",
+   "It comes from the plains around Modena, home of balsamic vinegar.",
+   "It is the name of both the wine and a family of grapes."
+  ]
+ },
+ "Q891340": {
+  "name": "Bolgheri",
+  "facts": [
+   "A cypress-lined avenue five kilometres long leads to its village.",
+   "Sassicaia, a Cabernet Sauvignon that broke the local wine rules, was first made here in the 1940s.",
+   "Its vineyards lie on the Tyrrhenian coast, far from the classic hill towns of the region."
+  ]
+ },
+ "Q3733809": {
+  "name": "Etna",
+  "facts": [
+   "Its vines grow on the slopes of Europe's most active volcano.",
+   "Some of its vineyards climb above 1,000 metres, among the highest in Europe.",
+   "Many of its vines were never grafted, as phylloxera could not live in its volcanic sand."
+  ]
+ },
+ "Q1946117": {
+  "name": "Montepulciano d'Abruzzo",
+  "facts": [
+   "It is named after a grape, not after the Tuscan town that shares the name.",
+   "Its vineyards run from the Apennines down to the Adriatic coast.",
+   "Cerasuolo, its deep cherry-coloured rosé, comes from the same grape."
+  ]
+ },
+ "Q1569384": {
+  "name": "Rioja",
+  "facts": [
+   "Its wines are labelled crianza, reserva or gran reserva by how long they aged.",
+   "Haro, one of its towns, holds a wine battle every June, where crowds soak each other in red.",
+   "It was the country's first wine to reach the top quality grade, DOCa, in 1991."
+  ]
+ },
+ "Q2167338": {
+  "name": "Ribera del Duero",
+  "facts": [
+   "Vega Sicilia, one of the country's most famous estates, is here.",
+   "Its vineyards sit on a high plateau, around 800 metres up, with very hot days and cold nights.",
+   "Its reds are made from Tempranillo, known locally as Tinto Fino."
+  ]
+ },
+ "Q1754563": {
+  "name": "Priorat",
+  "facts": [
+   "Its vines grow on llicorella, a crumbly slate that glitters in the sun.",
+   "Carthusian monks founded a priory here in the 12th century that gave it its name.",
+   "In the 1990s a small group of winemakers turned a forgotten region into a cult one."
+  ]
+ },
+ "Q16398": {
+  "name": "Jerez",
+  "facts": [
+   "Its fortified wines age in a solera, where young wine tops up older barrels year after year.",
+   "Fino matures under a layer of yeast called flor that keeps air away from it.",
+   "Its vineyards grow on white albariza soil, which soaks up winter rain."
+  ]
+ },
+ "Q1433176": {
+  "name": "Rías Baixas",
+  "facts": [
+   "Its name means 'lower inlets', after the fjord-like estuaries of the Atlantic coast.",
+   "Its vines are often trained high on granite posts, to keep the grapes away from damp.",
+   "Its whites come from Albariño and go with the local seafood."
+  ]
+ },
+ "Q356128": {
+  "name": "Rueda",
+  "facts": [
+   "Its white wine comes from Verdejo, a grape it brought back from near-extinction.",
+   "It is famous for its whites, though it sits next door to a great red region.",
+   "Many of its vineyards are picked at night to keep the grapes cool."
+  ]
+ },
+ "Q2841161": {
+  "name": "Penedès",
+  "facts": [
+   "Most of the country's sparkling Cava comes from here.",
+   "Its capital Vilafranca hosts castells, towers of people.",
+   "Its vineyards lie inland of Barcelona."
+  ]
+ },
+ "Q765567": {
+  "name": "Toro",
+  "facts": [
+   "Napoleon's troops are said to have taken its wine with them.",
+   "Its reds, from a local strain of Tempranillo, are among the most powerful in Europe.",
+   "Its sandy soils kept its old vines safe from phylloxera."
+  ]
+ },
+ "Q6463671": {
+  "name": "La Mancha",
+  "facts": [
+   "It is one of the largest single wine appellations in the world.",
+   "Don Quixote fought its windmills in Cervantes' novel.",
+   "Airén, the white grape that covers its plateau, was once the world's most planted."
+  ]
+ },
+ "Q624640": {
+  "name": "Bierzo",
+  "facts": [
+   "Pilgrims on the Way of St James walk through its valleys.",
+   "Its reds come from Mencía, grown on steep slate slopes.",
+   "The Romans mined gold here at Las Médulas."
+  ]
+ },
+ "Q140379672": {
+  "name": "Douro Valley",
+  "facts": [
+   "Its fortified wine was once carried downriver in flat-bottomed rabelo boats.",
+   "Its terraced vineyards on schist slopes became the world's first demarcated wine region, in 1756.",
+   "Port is aged in lodges across the river from the city of Porto."
+  ]
+ },
+ "Q1067753": {
+  "name": "Vinho Verde",
+  "facts": [
+   "Its name means 'green wine', meaning young, not the colour.",
+   "Its whites are light, low in alcohol and often slightly fizzy.",
+   "Vines were once trained up trees and on pergolas here so crops could grow beneath."
+  ]
+ },
+ "Q27697": {
+  "name": "Madeira",
+  "facts": [
+   "Its fortified wine is heated as it ages, a process called estufagem.",
+   "It was used to toast the US Declaration of Independence in 1776.",
+   "The wine comes from an Atlantic island far closer to Morocco than to its own mainland."
+  ]
+ },
+ "Q2832668": {
+  "name": "Alentejo",
+  "facts": [
+   "About half of the world's cork comes from its forests of cork oak.",
+   "Some of its wineries still ferment in large clay pots called talhas, as the Romans did.",
+   "It covers roughly a third of its country, mostly hot rolling plains."
+  ]
+ },
+ "Q1269612": {
+  "name": "Dão",
+  "facts": [
+   "Its vineyards sit on granite, ringed by mountains that keep out Atlantic rain.",
+   "Touriga Nacional, the country's great red grape, may have started here.",
+   "Its name comes from a river, a tributary of the Mondego."
+  ]
+ },
+ "Q672776": {
+  "name": "Mosel",
+  "facts": [
+   "Some of its vineyards are among the world's steepest, with slopes of over 65 degrees.",
+   "Its Rieslings are grown on blue and red slate along a looping river.",
+   "Bernkastel's Doctor vineyard is said to have cured an archbishop."
+  ]
+ },
+ "Q387316": {
+  "name": "Rheingau",
+  "facts": [
+   "Late harvest Riesling was discovered here in 1775 when the courier with permission to pick arrived late.",
+   "Schloss Johannisberg, one of the oldest Riesling estates, overlooks it.",
+   "Its vineyards face south, where the Rhine turns west for a while."
+  ]
+ },
+ "Q185439": {
+  "name": "Pfalz",
+  "facts": [
+   "The world's oldest signposted wine route, opened in 1935, runs through it.",
+   "It is the second-largest wine region of its country, with a mild climate where figs grow.",
+   "The world's largest wine barrel stands in Bad Dürkheim."
+  ]
+ },
+ "Q567327": {
+  "name": "Rheinhessen",
+  "facts": [
+   "It is the largest wine region of its country.",
+   "Liebfraumilch was first made here, around a church in Worms.",
+   "It lies inside a bend of the Rhine, between Mainz, Worms and Bingen."
+  ]
+ },
+ "Q153250": {
+  "name": "Franconia",
+  "facts": [
+   "Its wines are bottled in the Bocksbeutel, a flat, round flask.",
+   "Its leading grape is Silvaner, not Riesling.",
+   "Würzburg's palace has huge wine cellars below it."
+  ]
+ },
+ "Q647902": {
+  "name": "Baden",
+  "facts": [
+   "It is the warmest and southernmost wine region of its country.",
+   "Kaiserstuhl, an extinct volcano in it, is one of the sunniest spots in the land.",
+   "Its vineyards run 400 km from Lake Constance to near Heidelberg."
+  ]
+ },
+ "Q402640": {
+  "name": "Ahr",
+  "facts": [
+   "Despite being one of the country's northernmost wine regions, it is mainly red.",
+   "A flash flood in July 2021 destroyed many of its wineries.",
+   "Its steep valley lies just south of Bonn."
+  ]
+ },
+ "Q192201": {
+  "name": "Wachau",
+  "facts": [
+   "Its stone-walled vineyard terraces line the Danube, a World Heritage Site.",
+   "Its wines are graded Steinfeder, Federspiel and Smaragd, after a grass, a falcon and a lizard.",
+   "Richard the Lionheart was held captive at Dürnstein castle here."
+  ]
+ },
+ "Q688060": {
+  "name": "Lavaux",
+  "facts": [
+   "Its terraced vineyards rise steeply from the shore of Lake Geneva.",
+   "Cistercian monks built its terraces in the 12th century.",
+   "Its growers speak of three suns: the sky, the lake, and the stone walls."
+  ]
+ },
+ "Q828125": {
+  "name": "Tokaj",
+  "facts": [
+   "Its sweet wine was praised as 'the wine of kings, the king of wines' by Louis XIV.",
+   "Sweetness of its Aszú wines was measured in puttonyos, baskets of rotten grapes.",
+   "It is one of the world's oldest classified wine regions, mapped from 1730."
+  ]
+ },
+ "Q987950": {
+  "name": "Eger",
+  "facts": [
+   "Its red blend is called Bull's Blood, after legend of defenders who drank it in a 1552 siege.",
+   "The Valley of the Beautiful Women is lined with wine cellars cut into soft rock.",
+   "Its fortress held off a huge Ottoman army in 1552."
+  ]
+ },
+ "Q2223717": {
+  "name": "Santorini",
+  "facts": [
+   "Its vines are woven into low baskets on the ground to protect the grapes from the wind.",
+   "Its vineyards grow on volcanic ash from a huge Bronze Age eruption.",
+   "Its whites come from Assyrtiko; its sweet Vinsanto from sun-dried grapes."
+  ]
+ },
+ "Q169674": {
+  "name": "Kakheti",
+  "facts": [
+   "Wine has been made in this land for around 8,000 years, among the oldest on record.",
+   "Its winemakers ferment wine in qvevri, clay jars buried in the ground.",
+   "Its red wine is made from Saperavi, one of few grapes with red flesh."
+  ]
+ },
+ "Q202322": {
+  "name": "Beqaa Valley",
+  "facts": [
+   "Château Ksara, its oldest winery, was founded by Jesuits in 1857.",
+   "It is a high valley between two mountain ranges, with Baalbek's Roman temples at its north end.",
+   "Château Musar kept making wine through its country's long civil war."
+  ]
+ },
+ "Q1115080": {
+  "name": "Commandaria",
+  "facts": [
+   "It is the oldest named wine still made, called after the Knights' commandery.",
+   "It is made from sun-dried grapes grown on the southern slopes of the Troodos mountains.",
+   "Richard the Lionheart is said to have served it at his wedding."
+  ]
+ },
+ "Q1109872": {
+  "name": "Goriška Brda",
+  "facts": [
+   "Its hills carry on across the border, where they are called Collio.",
+   "Its villages are known for cherries as well as orange wine.",
+   "Its winemakers revived ageing white wine on its skins, making it amber-coloured."
+  ]
+ },
+ "Q7038741": {
+  "name": "Ningxia",
+  "facts": [
+   "Its vineyards stretch along the foot of the Helan Mountains.",
+   "The Yellow River runs through it, near the Great Wall.",
+   "Its winters are so cold that the vines are buried in soil every autumn."
+  ]
+ },
+ "Q1151105": {
+  "name": "Napa Valley",
+  "facts": [
+   "At the 1976 Judgment of Paris, its wines beat the best of the old world in a blind tasting.",
+   "Robert Mondavi opened its first major winery since Prohibition in 1966.",
+   "A wine train runs along its valley from the town at its southern end."
+  ]
+ },
+ "Q7562180": {
+  "name": "Sonoma County",
+  "facts": [
+   "It has more than a dozen sub-regions, among them the Russian River Valley.",
+   "Jack London's ranch was in its Valley of the Moon.",
+   "Morning fogs from the Pacific keep its Pinot Noir and Chardonnay cool."
+  ]
+ },
+ "Q2055633": {
+  "name": "Paso Robles",
+  "facts": [
+   "It lies halfway between Los Angeles and San Francisco.",
+   "Its warm days and cold nights suit Zinfandel and Rhône grapes.",
+   "Tablas Creek brought Rhône vine cuttings here from Châteauneuf-du-Pape."
+  ]
+ },
+ "Q1867760": {
+  "name": "Lodi",
+  "facts": [
+   "It is known as the Zinfandel capital of the world, with vines over a century old.",
+   "Its vineyards lie in the Central Valley, south of Sacramento.",
+   "It grows more wine grapes than Napa and Sonoma combined."
+  ]
+ },
+ "Q2223286": {
+  "name": "Santa Ynez Valley",
+  "facts": [
+   "Much of the film 'Sideways' was shot here.",
+   "Its valleys run east to west, letting sea fog flow in from the Pacific.",
+   "Danish settlers founded the town of Solvang here."
+  ]
+ },
+ "Q919057": {
+  "name": "Willamette Valley",
+  "facts": [
+   "Its Pinot Noir finished near the top of a 1979 blind tasting in Paris.",
+   "Burgundy's Drouhin family set up a winery here in 1987.",
+   "Its valley lies between the Coast Range and the Cascades, south of Portland."
+  ]
+ },
+ "Q7962694": {
+  "name": "Walla Walla Valley",
+  "facts": [
+   "Its name is said to mean 'many waters' in the language of the local Sahaptin peoples.",
+   "Its vineyards cross a state line.",
+   "Sweet onions from here are almost as famous as its wine."
+  ]
+ },
+ "Q5450198": {
+  "name": "Finger Lakes",
+  "facts": [
+   "Its long, narrow lakes were carved by glaciers.",
+   "Dr Konstantin Frank showed in the 1950s that European vines could survive its cold winters.",
+   "Its deep lakes keep the vineyards from freezing in winter."
+  ]
+ },
+ "Q634633": {
+  "name": "Texas Hill Country",
+  "facts": [
+   "It is the second-most visited wine region in its country, after Napa.",
+   "German settlers founded Fredericksburg here in 1846.",
+   "Its warm limestone hills suit grapes from Spain and the Rhône."
+  ]
+ },
+ "Q1147919": {
+  "name": "Niagara Peninsula",
+  "facts": [
+   "It is one of the world's largest producers of ice wine, from grapes frozen on the vine.",
+   "A long escarpment and a great lake keep its vineyards mild.",
+   "Its vineyards lie close to a famous waterfall on the border."
+  ]
+ },
+ "Q7081806": {
+  "name": "Okanagan Valley",
+  "facts": [
+   "Its south end is desert, the only one in its country.",
+   "Its long, deep lake is said to hide a monster called Ogopogo.",
+   "Its vineyards sit at about 50 degrees north."
+  ]
+ },
+ "Q834310": {
+  "name": "Valle de Guadalupe",
+  "facts": [
+   "It makes most of its country's wine.",
+   "Its vineyards lie inland from Ensenada, on the Pacific coast.",
+   "Russian Molokans, a religious group, settled it in the early 1900s."
+  ]
+ },
+ "Q721450": {
+  "name": "Maipo Valley",
+  "facts": [
+   "It surrounds the capital, at the foot of the Andes.",
+   "Concha y Toro, one of the world's biggest wine companies, began here.",
+   "Its Cabernet Sauvignon is the country's most famous."
+  ]
+ },
+ "Q201304": {
+  "name": "Colchagua Valley",
+  "facts": [
+   "Carmenère, once thought lost in Bordeaux, was rediscovered growing here in 1994.",
+   "Its vineyards follow the Tinguiririca river toward the Pacific.",
+   "Santa Cruz, its main town, has a wine train and a vintage festival."
+  ]
+ },
+ "Q3742": {
+  "name": "Casablanca Valley",
+  "facts": [
+   "Its cool Pacific breezes made it the country's first great white wine region.",
+   "It lies on the road between the capital and the port of Valparaíso.",
+   "It was nearly all pasture until the 1980s."
+  ]
+ },
+ "Q166014": {
+  "name": "Mendoza",
+  "facts": [
+   "Nearly three-quarters of its country's wine comes from here.",
+   "Its vineyards are watered by irrigation channels first dug by the Huarpe people.",
+   "Aconcagua, the highest mountain outside Asia, looks down on it."
+  ]
+ },
+ "Q7876801": {
+  "name": "Uco Valley",
+  "facts": [
+   "Its vineyards climb past 1,500 metres up the Andes.",
+   "It lies south of the city that shares its province's name.",
+   "Its high altitude gives Malbec deep colour and freshness."
+  ]
+ },
+ "Q1025501": {
+  "name": "Cafayate",
+  "facts": [
+   "Its vineyards lie among the highest in the world, around 1,700 metres up.",
+   "It is known for Torrontés, an aromatic white grape.",
+   "The red rock gorge of the Quebrada de las Conchas leads to it."
+  ]
+ },
+ "Q177231": {
+  "name": "Serra Gaúcha",
+  "facts": [
+   "Italian immigrants from the Veneto planted its first vines in the 1870s.",
+   "Bento Gonçalves is its wine capital.",
+   "It is best known for its sparkling wines."
+  ]
+ },
+ "Q16577": {
+  "name": "Canelones",
+  "facts": [
+   "Its vineyards lie just north of Montevideo.",
+   "Most of its country's wine is made here.",
+   "Tannat, brought by Basque settlers, is the country's signature grape."
+  ]
+ },
+ "Q5460": {
+  "name": "Stellenbosch",
+  "facts": [
+   "It is the country's second-oldest European settlement, founded in 1679.",
+   "Its university town is known as the City of Oaks.",
+   "Its vineyards sit beneath the Simonsberg and Helderberg mountains."
+  ]
+ },
+ "Q1127722": {
+  "name": "Constantia",
+  "facts": [
+   "Its sweet wine was sent to Napoleon in exile on St Helena.",
+   "Its oldest estate, founded in 1685 by the Cape's Dutch governor, is the country's oldest wine farm.",
+   "Its vineyards lie on the slopes of Table Mountain."
+  ]
+ },
+ "Q7653942": {
+  "name": "Swartland",
+  "facts": [
+   "Its name means 'black land', after a dark bush that grows on its hills.",
+   "Its old, dry-farmed Chenin Blanc vines drove a winemaking revolution in the 2000s.",
+   "Its wheat fields and vineyards lie north of Cape Town."
+  ]
+ },
+ "Q4863063": {
+  "name": "Barossa Valley",
+  "facts": [
+   "German-speaking Lutherans from Silesia settled it in the 1840s.",
+   "Some of its Shiraz vines are among the oldest in the world, planted in the 1840s.",
+   "Penfolds and Yalumba have made wine here for over 150 years."
+  ]
+ },
+ "Q6802082": {
+  "name": "McLaren Vale",
+  "facts": [
+   "Its vineyards run down to the beaches of Gulf St Vincent.",
+   "The d'Arenberg Cube, a winery built like a Rubik's cube, stands here.",
+   "It lies just south of Adelaide."
+  ]
+ },
+ "Q1129760": {
+  "name": "Coonawarra",
+  "facts": [
+   "It is famous for terra rossa, a strip of red soil over limestone, 15 km long.",
+   "Its Cabernet Sauvignon is among the country's best.",
+   "John Riddoch founded its first vineyards in 1890."
+  ]
+ },
+ "Q1612687": {
+  "name": "Clare Valley",
+  "facts": [
+   "It is known for its dry Riesling, lean and limey.",
+   "Its growers led the switch from cork to screw caps in 2000.",
+   "The Riesling Trail, a cycling path, runs through its valley."
+  ]
+ },
+ "Q5944605": {
+  "name": "Hunter Valley",
+  "facts": [
+   "It is one of the oldest wine regions in its country, planted in the 1820s.",
+   "Its Sémillon is picked early and ages for decades.",
+   "It lies north of Sydney, in coal mining country."
+  ]
+ },
+ "Q6759841": {
+  "name": "Margaret River",
+  "facts": [
+   "Its first vineyards were planted in the late 1960s, after a scientist compared its climate to Bordeaux's.",
+   "It sits on a cape between two oceans, known for its surf.",
+   "Its Cabernet Sauvignon and Chardonnay are among the country's most prized."
+  ]
+ },
+ "Q8049508": {
+  "name": "Yarra Valley",
+  "facts": [
+   "It was the first wine region in its state to be planted, in 1838.",
+   "Moët & Chandon set up a winery here in 1986, Domaine Chandon.",
+   "It lies just northeast of Melbourne."
+  ]
+ },
+ "Q7687543": {
+  "name": "Tasmania",
+  "facts": [
+   "Its wines come from an island south of the mainland, with a cool maritime climate.",
+   "Its sparkling wines are among its country's finest.",
+   "Its main vineyards follow the Tamar River near Launceston."
+  ]
+ },
+ "Q85783963": {
+  "name": "Marlborough",
+  "facts": [
+   "Its Sauvignon Blanc made its country famous for wine in the 1980s.",
+   "Cloudy Bay, one of its wineries, is named after a bay Captain Cook named in 1770.",
+   "It sits at the northeast corner of an island, around Blenheim."
+  ]
+ },
+ "Q5061573": {
+  "name": "Central Otago",
+  "facts": [
+   "It is the world's southernmost wine region.",
+   "Its vineyards lie in the mountains around Queenstown and Lake Wānaka.",
+   "Gold miners were the first to plant vines here, in the 1860s."
+  ]
+ },
+ "Q85765961": {
+  "name": "Hawke's Bay",
+  "facts": [
+   "The Gimblett Gravels, an old riverbed, make some of its best reds.",
+   "Napier, an Art Deco city rebuilt after a 1931 earthquake, is in it.",
+   "It is the oldest wine region of its country, with vines from 1851."
+  ]
+ },
+ "Q1905554": {
+  "name": "Martinborough",
+  "facts": [
+   "It is a small town in the Wairarapa, laid out in the shape of the Union Jack.",
+   "Its Pinot Noir is grown on old river terraces.",
+   "It lies over the hills from the capital."
+  ]
+ }
+}
